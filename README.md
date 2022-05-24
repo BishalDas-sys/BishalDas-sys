@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2261302/screenshots/8025303/media/4aaedc32f3f90f3bc306d9064a405593.gif">
 <p align="left"> <a href="https://twitter.com/princea20941678" target="blank"><img src="https://img.shields.io/twitter/follow/princea20941678?logo=twitter&style=for-the-badge" alt="princea20941678" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot, Hyperledger-fabric, Solidity-Contracts**
+- 🌱 I’m currently learning **Hyperledger-fabric, Solidity-Contracts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BishalDas-sys](https://github.com/BishalDas-sys)
 
